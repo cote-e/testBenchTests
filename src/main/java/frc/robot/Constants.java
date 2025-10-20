@@ -12,6 +12,13 @@ package frc.robot;
  * <p>It is advised to statically import this class (or one of its inner classes) wherever the
  * constants are needed, to reduce verbosity.
  */
+
+/* TO ADD :
+ * Servo port (no servo currently)
+ * Spark MAX ID : 17 (not plugged in yet)
+ * also no leds rn
+ * yikes (at least it's just a test bench)
+ */
 public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
